@@ -6,11 +6,11 @@
  *  Email:        goldschmidtd@ini.phys.ethz.ch                              *
  *                                                                           *
  *                                                                           *
- *  Copyright (C) 2014 by Dennis Goldschmidt								 *
+ *  Copyright (C) 2014 by Dennis Goldschmidt                                 *
  *  																		 *
  *  This file is part of the program NaviSim                                 *
  *                                                                           *
- *  NaviSim is free software: you can redistribute it and/or modify     	 *
+ *  NaviSim is free software: you can redistribute it and/or modify          *
  *  it under the terms of the GNU General Public License as published by     *
  *  the Free Software Foundation, either version 3 of the License, or        *
  *  (at your option) any later version.                                      *
