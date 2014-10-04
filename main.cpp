@@ -7,7 +7,7 @@
  *                                                                           *
  *                                                                           *
  *  Copyright (C) 2014 by Dennis Goldschmidt                                 *
- *  																		 *
+ *                                                                           *
  *  This file is part of the program NaviSim                                 *
  *                                                                           *
  *  NaviSim is free software: you can redistribute it and/or modify          *
