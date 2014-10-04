@@ -1,0 +1,29 @@
+reset
+set term x11 enhanced font "Helvetica,8"
+
+rows = "`cat ../data/spikes.mat | wc -l`"
+columns = "`head ../data/spikes.mat -n1 | wc -w`"
+
+set yrange [-0.5:rows-0.5]
+set xrange [-0.5:columns-0.5]
+set xlabel "Time [ms]"
+set ylabel "Neuron index"
+
+set ytics 200
+unset colorbox
+set pal gray negative
+
+
+set multiplot layout 2,1 title "Rasterplot"
+set origin 0.0,0.45
+set size 1.,0.45
+plot "../data/spikes.mat" matrix with image
+
+set origin 0.0,0.0
+set size 1.,0.45
+set colorbox
+set cbrange [-80:40]
+plot "../data/potential.mat" matrix with image
+
+unset multiplot
+set output
