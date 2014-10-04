@@ -1,6 +1,6 @@
 /*****************************************************************************
- *	lif.h																	 *
- *																			 *
+ *	lif.h																*
+ *																		*
  *  Created on:		Oct 04, 2014											 *
  *  Author: 		Dennis Goldschmidt										 *
  *  Email: 			goldschmidtd@ini.phys.ethz.ch							 *
