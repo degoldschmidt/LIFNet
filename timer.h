@@ -1,9 +1,9 @@
 /*****************************************************************************
- *	timer.h                                                                  *
+ *  timer.h                                                                  *
  *                                                                           *
- *  Created on:		Oct 04, 2014                                             *
- *  Author: 		Dennis Goldschmidt                                       *
- *  Email:			goldschmidtd@ini.phys.ethz.ch                            *
+ *  Created on:   Oct 04, 2014                                               *
+ *  Author:       Dennis Goldschmidt                                         *
+ *  Email:        goldschmidtd@ini.phys.ethz.ch                              *
  *                                                                           *
  *                                                                           *
  *  Copyright (C) 2014 by Dennis Goldschmidt								 *
